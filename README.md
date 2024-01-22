@@ -1,3 +1,7 @@
+## Requirements
+* rootless docker
+* nvidia-container-toolkit or other
+
 ## Init workspace
 
 run docker compose
